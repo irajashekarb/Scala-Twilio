@@ -28,5 +28,6 @@
     <orderEntry type="library" name="sbt: org.apache.httpcomponents:httpclient:4.5.2:jar" level="project" />
     <orderEntry type="library" name="sbt: org.apache.httpcomponents:httpcore:4.4.4:jar" level="project" />
     <orderEntry type="library" name="sbt: org.slf4j:slf4j-api:1.7.6:jar" level="project" />
+    <orderEntry type="library" name="scala-sdk-2.12.8 (2)" level="application" />
   </component>
 </module>
